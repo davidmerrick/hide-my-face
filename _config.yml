@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-source: pages
+source: pages/*

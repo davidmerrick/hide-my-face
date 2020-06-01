@@ -1,3 +1,7 @@
+---
+title: Hide My Face
+---
+
 Sick of seeing your own mug in video calls? 
 
 Worried that you'll emerge from the pandemic unable to have a normal interaction with another human
