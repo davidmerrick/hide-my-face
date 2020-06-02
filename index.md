@@ -13,7 +13,7 @@ Simply drag the link into your bookmarks bar. During a video call, click it to t
 
 # Google Duo
 
-[Hide my face]()
+[Hide my face](javascript:void%20function(){function%20a(){return[].slice.call(document.getElementsByTagName(%22video%22)).filter(a=%3E%220%22==a.tabIndex)[0]}(function(){var%20b=a();b.style.display=%22none%22===b.style.display%3F%22block%22:%22none%22})()}();)
 
 # SimplePractice Telehealth
 
